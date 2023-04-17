@@ -31,7 +31,6 @@ body {
 .link {
     display: inline-block;
     margin: 30px 0 50px;
-    text-decoration: underline;
     color: #1a689c;
     font-size: 20px;
     font-weight: 700;
